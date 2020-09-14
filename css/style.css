@@ -4,7 +4,7 @@
     box-sizing: border-box;
     margin-right: auto;
     margin-left: auto;
-    max-width: 1050px;
+    max-width: 1050px;s
 }
 
 .card {
@@ -15,4 +15,12 @@
     margin: 10px;
     padding: 20px;
     background-color: #fff;
+}
+
+.makeRed {
+    background-color: red;
+}
+
+.makeBlue {
+    background-color: blue;
 }
