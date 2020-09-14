@@ -1,4 +1,4 @@
-#container {
+.container {
     display: flex; /* makes container a flex-box */
     flex-flow: row wrap; /* layout the rows and wrap them */
     box-sizing: border-box;
